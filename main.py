@@ -12,6 +12,9 @@ def find_narcissistic_numbers():
         if num == (hundreds**3 + tens**3 + ones**3):
             results.append(num)
 
+        # 军第十九
+        # 十三点
+
     return results
 
 if __name__ == "__main__":
